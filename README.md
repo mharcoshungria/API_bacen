@@ -1,4 +1,8 @@
+<img src="https://i.imgur.com/YX6UATs.png"  width="160">
+
 # Exercício com API
+
+Este notebook é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
 
 O exercício a ser desenvolvido consiste em conectar-se a uma API. O Banco Central do Brasil disponibiliza dados a respeito de diversos indicadores econômicos do país. 
 
